@@ -26,7 +26,7 @@ st.set_page_config(
 
 # Streamlit application layout
 st.title('Heart Disease Prediction App')
-st.markdown("By: ")
+st.markdown("By: Yosephine Elisaujana Narwasthu/A11.2020.12685")
 st.markdown("This tool predicts the likelihood of heart disease based on medical diagnostic measures.")
 
 # About Heart Disease
